@@ -18327,8 +18327,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.system_object.prototype.cnds.EveryTick,
 	cr.plugins_.Sprite.prototype.acts.SetPos,
-	cr.plugins_.Touch.prototype.exps.AbsoluteX,
-	cr.plugins_.Touch.prototype.exps.AbsoluteY,
+	cr.plugins_.Touch.prototype.exps.X,
+	cr.plugins_.Touch.prototype.exps.Y,
 	cr.plugins_.c2canvas.prototype.acts.PasteObject
 ];};
 
